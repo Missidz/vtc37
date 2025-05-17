@@ -6,6 +6,5 @@
         "use": "@vercel/next"
       }
     ],
-    "framework": "nextjs",
-    "rootDirectory": "myvct37"
+    "framework": "nextjs"
   }
